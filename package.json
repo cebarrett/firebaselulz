@@ -1,0 +1,21 @@
+{
+  "name": "firebaselulz",
+  "description": "Firebase module for the Opower hackathon",
+  "author": "Chris Barrett <chris.barrett@opower.com>",
+  "dependencies": {
+    "firebase": "1.0.21"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=0.10.1"
+  },
+  "main": "./lib/main",
+  "scripts": {
+    "test": "node tests/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cebarrett/firebaselulz.git"
+  }
+}
+
