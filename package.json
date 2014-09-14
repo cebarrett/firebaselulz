@@ -3,7 +3,6 @@
   "description": "Firebase module for the Opower hackathon",
   "author": "Chris Barrett <chris.barrett@opower.com>",
   "dependencies": {
-    "firebase": "1.0.21"
   },
   "version": "0.1.0",
   "engines": {
